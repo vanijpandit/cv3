@@ -1,6 +1,6 @@
 # Vanij's Personal Website
 
-This is a simple personal website created by Vanij Pandit. It shares information about Vanij Pandit a nine year old boy about his skills, achievements and interests.
+This is a simple personal website created by Vanij Pandit. It shares information about Vanij Pandit a nine year old boy about his skills, achievements and interests.Hella Fellas, admin abuse on Sunday!!!!!!!!!!!!
 
 ---
 
