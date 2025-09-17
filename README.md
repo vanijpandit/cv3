@@ -1,6 +1,6 @@
-# Vanij's Personal Website
+# Vanij's Personal Website (Updated Fellas)
 
-This is a simple personal website created by Vanij Pandit. It shares information about Vanij Pandit a nine year old boy about his skills, achievements and interests. Hella Fellas, admin abuse on Sunday!!!!!!!!!!!!suiiiii
+This is a simple personal website created by Vanij Pandit. It shares information about Vanij Pandit a nine year old boy about his skills, achievements and interests. Hella Fellas, admin abuse on Sunday!!!!!!!!!!!! Suiiiii. Ronaldo
 
 ---
 
