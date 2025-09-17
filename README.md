@@ -52,9 +52,9 @@ This is a simple personal website created by Vanij Pandit. It shares information
 ---
 
 ## 🎨 Styling
-- Light background color: `#EAF6F6`.
+- Light background color: `#EAF6F6` which is Light Blue.
 - Uses simple tables and lists for organizing content.
-- Links to `hobbies.html` and `contact-me.html`.
+- Links to `hobbies.html` and `contact-me.html`. You can send me messages through contact me.
 
 ---
 
